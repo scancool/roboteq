@@ -2,7 +2,7 @@
 
 This is the driver for all dual channel roboteq motor controllers, the driver includes the differential driver algorithm. 
 
-* [youtube vieo](https://www.youtube.com/watch?v=rk8OZ5LdfDo)
+* [youtube video](https://www.youtube.com/watch?v=rk8OZ5LdfDo)
 
 ## Getting Started
 
