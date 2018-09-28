@@ -20,7 +20,7 @@ Launch RVIZ by running the command:
 ```
 roslaunch diff_drive rviz.launch
 ```
-on a different terminal this command to be able to control your robot
+on a different terminal run this command to be able to control your robot
 
 ```
 rosrun teleop_twist_keyboard teleop_twist_keyboard.py
