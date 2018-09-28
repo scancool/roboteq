@@ -10,7 +10,7 @@ You will need ROS on your computer and the roboteq script running on your motor 
 Clone this repository in your catkin_ws/src/  folder
 
 ```
-git clone https://github.com/scancool/roboandre.git
+git clone https://github.com/scancool/roboteq.git
 ```
 
 ## Running the tests
