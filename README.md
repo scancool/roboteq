@@ -6,7 +6,7 @@ This is the driver for all dual channel roboteq motor controllers, the driver in
 
 ## Getting Started
 
-You will need ROS on your computer and the roboteq script running on your motor controller.
+You will need ROS on your computer and the roboteq microbasic_script running on your motor controller.
 Clone this repository in your catkin_ws/src/  folder
 
 ```
